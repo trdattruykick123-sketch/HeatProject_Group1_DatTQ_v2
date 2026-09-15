@@ -1,2 +1,2 @@
 step,rows_before,rows_after,dropped,reason
-drop duplicates,249195,249195,0,same unit and timestamp
+drop duplicates,780,780,0,same unit and timestamp

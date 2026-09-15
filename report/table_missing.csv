@@ -1,0 +1,4 @@
+ELEMENT,missing_rate,decision
+PRCP,0.0064,interpolate/impute median
+STATION,0.0,keep
+DATE,0.0,keep

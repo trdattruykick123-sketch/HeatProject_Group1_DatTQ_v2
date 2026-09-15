@@ -1,0 +1,4 @@
+column,reason,decision
+STATION,time/unit key,keep for feature building
+DATE,time/unit key,keep for feature building
+PRCP,target,keep
