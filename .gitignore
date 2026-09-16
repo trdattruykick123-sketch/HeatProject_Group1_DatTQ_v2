@@ -1,7 +1,9 @@
 ﻿data/raw
 .venv
 *.parquet
+*.duckdb
+*.duckdb.wal
 
-# NGOẠI LỆ: Cho phép đưa 2 file này lên GitHub
+# NGOẠI LỆ: Chỉ cho phép 2 file này lên GitHub
 !data/processed/feat.parquet
-!data/processed/manifest
+!data/processed/manifest.json
