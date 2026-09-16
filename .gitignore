@@ -2,4 +2,7 @@
 data/processed
 .venv
 *.parquet
-data/
+
+# NGOẠI LỆ: Mở khóa riêng 2 file này cho nhóm dùng
+!data/processed/feat.parquet
+!data/processed/manifest
