@@ -1,0 +1,14 @@
+{
+  "rows": 780,
+  "cols": [
+    "STATION",
+    "DATE",
+    "PRCP",
+    "target_val",
+    "y_1d"
+  ],
+  "md5": "e4e6eaf455a3743ae0f5d8c47c63526e",
+  "time_min": "2012-05-05 00:00:00",
+  "time_max": "2014-06-23 00:00:00",
+  "author": "Student A"
+}

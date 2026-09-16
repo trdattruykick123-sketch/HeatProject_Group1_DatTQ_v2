@@ -1,8 +1,7 @@
 ﻿data/raw
-data/processed
 .venv
 *.parquet
 
-# NGOẠI LỆ: Mở khóa riêng 2 file này cho nhóm dùng
+# NGOẠI LỆ: Cho phép đưa 2 file này lên GitHub
 !data/processed/feat.parquet
 !data/processed/manifest
