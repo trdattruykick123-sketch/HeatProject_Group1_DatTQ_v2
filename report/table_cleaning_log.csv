@@ -1,3 +1,0 @@
-step,rows_before,rows_after,dropped,reason
-drop duplicates,1325474,1325474,0,same unit and timestamp
-drop missing target,1325474,1293612,31862,cannot be forecast
