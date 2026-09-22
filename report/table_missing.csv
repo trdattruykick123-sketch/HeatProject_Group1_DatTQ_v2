@@ -1,6 +1,0 @@
-ELEMENT,missing_rate,decision
-PRCP,0.0534,drop or keep flag
-TMIN,0.0257,interpolate/impute median
-TMAX,0.024,interpolate/impute median
-STATION,0.0,keep
-DATE,0.0,keep

@@ -1,6 +1,0 @@
-column,reason,decision
-STATION,time/unit key,keep for feature building
-DATE,time/unit key,keep for feature building
-TMAX,target,keep
-TMIN,correlation with target 0.86,keep
-PRCP,correlation with target -0.02,consider dropping
