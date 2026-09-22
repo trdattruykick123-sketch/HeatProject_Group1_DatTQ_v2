@@ -1,14 +1,24 @@
 {
-  "rows": 780,
+  "rows": 103602,
   "cols": [
     "STATION",
     "DATE",
+    "TMAX",
+    "TMIN",
     "PRCP",
-    "target_val",
-    "y_1d"
+    "thr",
+    "doy",
+    "tmax_lag1",
+    "tmax_lag2",
+    "tmax_lag7",
+    "tmin_lag1",
+    "tmax_ma7",
+    "y_1d",
+    "y_2d",
+    "y_3d"
   ],
-  "md5": "e4e6eaf455a3743ae0f5d8c47c63526e",
-  "time_min": "2012-05-05 00:00:00",
-  "time_max": "2014-06-23 00:00:00",
+  "md5": "7a8243d8fb68bd94d73ae4d8dc2f3d79",
+  "time_min": "2020-01-01 00:00:00",
+  "time_max": "2026-09-20 00:00:00",
   "author": "Student A"
 }
